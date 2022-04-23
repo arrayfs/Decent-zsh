@@ -1,17 +1,15 @@
-### Termux-ZSH
-Termux with zsh, a bit modernized terminal **:)**\
-\
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/3a469a271f6b4a37b73288cc9929d0e1)](https://www.codacy.com/gh/Sohil876/Termux-zsh/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Sohil876/Termux-zsh&amp;utm_campaign=Badge_Grade)
+### Termux-decent-ZSH
+Termux with zsh Style
 # 
 
-![Termux-zsh-SS](Termux-zsh-SS.png)
+![Termux-zsh-SS](Termux-decent.png)
 
 ### Notes:
   - Termux from playstore [is no longer updated](https://wiki.termux.com/wiki/Termux_Google_Play), install termux from [f-droid](https://f-droid.org/en/packages/com.termux) instead.
   - To run commands in termux from other apps or open it in a directory with a filemanager ([Mixplorer](https://forum.xda-developers.com/t/app-2-2-mixplorer-v6-x-released-fully-featured-file-manager.1523691/) for example) give it App on top or draw over other apps permission and set `allow-external-apps` to true in `~/.termux/termux.properties`, However keep in mind that any app that supports this functionality can then automatically execute commands in termux so its very unsafe and should be only set to true when necessary.
 
 ### Installation:
-  - Clone this repo `git clone https://github.com/Sohil876/Termux-zsh`
+  - Clone this repo `git clone https://github.com/Correctl/Decent-zsh`
   - Run setup.sh file `bash setup.sh`
   - Restart termux (If you have weird font rendering issue just run `rm -rf ~/.termux` in termux and rerun setup.sh again for now)
 
