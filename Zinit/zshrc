@@ -8,7 +8,7 @@ export SAVEHIST=$HISTSIZE
 
 # Welcome message
 figlet -f slant Termux
-echo "(Setup by: Sohil876)"
+echo "(Setup by: T.me/B4gol)"
 echo ""
 echo "Working with packages:
  * Search packages:   pkg search <query>
