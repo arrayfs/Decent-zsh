@@ -2,7 +2,7 @@
 Termux with zsh Style
 # 
 
-![Termux-zsh-SS](Termux-decent.png)
+![Termux-zsh-SS](decent.png)
 
 ### Notes:
   - Termux from playstore [is no longer updated](https://wiki.termux.com/wiki/Termux_Google_Play), install termux from [f-droid](https://f-droid.org/en/packages/com.termux) instead.
